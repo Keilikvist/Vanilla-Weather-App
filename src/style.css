@@ -1,5 +1,8 @@
 body {
   font-family: arial, sans-serif;
+  background-image: url("https://images.pexels.com/photos/1403550/pexels-photo-1403550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  width: 100%;
+  height: auto;
 }
 
 h1 {
@@ -38,8 +41,9 @@ li:first-letter {
   max-width: 600px;
   margin: 30px auto;
   padding: 20px;
-  border: 1px solid #dadde1;
-  border-radius: 5px;
+  border: 1px solid #757585;
+  border-radius: 8px;
+  margin-bottom: 2%;
   background: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
 }
 
