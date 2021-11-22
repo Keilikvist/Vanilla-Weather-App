@@ -40,7 +40,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
-  background-image: ;
+  background: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
 }
 
 .overview {
